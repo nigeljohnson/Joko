@@ -1,0 +1,174 @@
+a {
+	color: #999999;
+}
+
+a:hover {
+	color: #222222;
+}
+
+.grey {
+	background-color:#222222;
+}
+
+.grey:hover {
+	background-color:#999999;
+}
+
+.color {
+	background-color:#222222;
+}
+
+.color:hover {
+	background-color:#999999;
+}
+
+.parallax-overlay.parallax-background-color {
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmYyYjQyIiBzdG9wLW9wYWNpdHk9IjAuMyIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMWMyMDJiIiBzdG9wLW9wYWNpdHk9IjAuMyIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(45deg,  rgba(255,43,66,0.3) 0%, rgba(28,32,43,0.3) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(255,43,66,0.3)), color-stop(100%,rgba(28,32,43,0.3))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(45deg,  rgba(255,43,66,0.3) 0%,rgba(28,32,43,0.3) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(45deg,  rgba(255,43,66,0.3) 0%,rgba(28,32,43,0.3) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(45deg,  rgba(255,43,66,0.3) 0%,rgba(28,32,43,0.3) 100%); /* IE10+ */
+	background: linear-gradient(45deg,  rgba(255,43,66,0.3) 0%,rgba(28,32,43,0.3) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dff2b42', endColorstr='#4d1c202b',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+
+}
+
+span.text-color {
+	color:#fff;
+}
+
+.bar li span { 
+	background-color:#222222;
+}
+
+.service-item.text-right .fa-stack {
+	color:#999999;
+}
+
+.service-item.text-left .fa-stack {
+	color:#999999;
+}
+
+ul.technology li i {
+	color:#999999;
+}
+
+ul.technology li:hover {
+	background-color:#222222;
+}
+	
+ul.technology li:hover:before {
+	border-color:#fff #fff #4e4e4e #4e4e4e;
+}
+
+#filters ul li a:hover h5, #filters ul li a.active h5 {
+	background-color:#222222;
+}
+
+.project-overlay {
+	background-color:#222222;
+}
+
+#contact-formular input[type="submit"]	{
+	background:#222222;
+}
+
+#contact-formular input[type="submit"]:hover	{
+	background:#ff2b42;
+	color: #1c202b
+}
+
+#menu_top {
+	background-color:#222222;
+}
+
+.blog-title a {
+	color:#222222;
+}
+
+.blog-title a:hover {
+	color:#999999;
+}
+
+.blog-type {
+	background-color:#222222;
+}
+
+.post-quote {
+	background-color:#222222;
+}
+
+.post-quote:hover {
+	background-color:#999999;
+}
+
+#sidebar .widget_categories li a:hover {
+	color: #999999;
+}
+
+#sidebar .recent-posts li a:hover {
+	color: #999999;
+}
+
+#sidebar .tags a:hover {
+	background-color:#999999;
+}
+
+#sidebar .widget_archives li a:hover {
+	color: #999999;
+}
+
+.inner-navigation li a:hover span {
+	background-color:#999999;
+}
+
+.inner-navigation li a span {
+	background-color:#222222;
+}
+
+.accordion dt.accordion-active span.accordion-status {
+	background-color:#222222;
+}
+
+.toggle-active {
+	background: #222222;
+}
+
+ul.tabs .tab-active a { 
+	background-color: #222; 
+}
+
+.dropcap-normal {
+	color: #222222;
+}
+
+.dropcap.dark {
+	background-color: #222;
+}
+
+.counters i {
+	color: #999999;
+}
+
+.fa-ul li i{
+	color:#222222;
+}
+
+.the-icons li i {
+	color: #222222;
+}
+
+.price-table i {
+	color: #999;
+}
+
+.price-table:hover i {
+	background-color: #222;
+	border-color: #222;
+}
+
+#newsletter {
+	background-color:#222;
+}
